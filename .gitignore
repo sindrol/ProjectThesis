@@ -1,5 +1,6 @@
 #Ignore folder with plots
 Images/*
+!Images/.gitkeep
 
 #Ignore environment
 env
