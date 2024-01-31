@@ -1,0 +1,13 @@
+#Ignore folder with plots and junk-folder
+/Images
+Junk
+
+#Ignore environments
+env
+env1
+
+#Ignore jupyter notebook metadata
+.ipynb_checkpoints
+
+#Ignore
+_pycache__
