@@ -1,6 +1,5 @@
 #Ignore folder with plots and junk-folder
-/Images
-Junk
+Images/*
 
 #Ignore environments
 env
