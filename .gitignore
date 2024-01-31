@@ -1,12 +1,13 @@
-#Ignore folder with plots and junk-folder
+#Ignore folder with plots
 Images/*
 
-#Ignore environments
+#Ignore environment
 env
-env1
 
 #Ignore jupyter notebook metadata
 .ipynb_checkpoints
+__pycache__
 
-#Ignore
-_pycache__
+#Ignore log files
+**/.DS_Store
+**.log
